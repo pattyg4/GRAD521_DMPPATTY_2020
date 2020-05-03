@@ -36,9 +36,11 @@ c.	Laboratory data: upwards of 1 TB depending on how many mycorrhizal RNA sequen
 a.	Physical samples: the physical soil samples will be created in the field for later evaluation in the lab. There will be four sample types,  two for soil condition evaluation, and two for mycorrhizal RNA 18S sequencing. The samples will be titled as follows, first for pre-restoration, then post:
 
 i.	Patty_Pre_sitelocation_plotnumber_datecollected(dd/mm/yyyy)
+
 ii.	Patty_Pre_mycor_sitelocation_plotnumber_datecollected(dd/mm/yyy)
 
 i.	Patty_Post_sitelocation_plotnumber_datecollected(dd/mm/yyyy)
+
 ii.	Patty_Post_mycor_sitelocation_plotnumber_datecollected(dd/mm/yyyy)
 
 b.	Field and soil condition observations: This data will be recorded tabularly on site to then be digitized into Excel to match the soil condition file names above. The bolded headings will be recorded in lab and added to the digitized sheets. 
