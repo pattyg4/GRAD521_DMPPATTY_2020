@@ -31,6 +31,57 @@ c.	Laboratory data: upwards of 1 TB depending on how many mycorrhizal RNA sequen
 •	There are no data sharing requirements, non-disclosure agreements, nor sensitive and confidential data generate by this project. The goals of this projects are increase the scope and success of restoration by sharing the results with anyone engaged in restoration, both for profit and non-profit groups.
 
 ## Data Standards and Metadata
+1)	As described in the “Data Description” portion of the DMP, I will generate three types of data: physical samples, field observations, laboratory data.
+
+a.	Physical samples: the physical soil samples will be created in the field for later evaluation in the lab. There will be four sample types,  two for soil condition evaluation, and two for mycorrhizal RNA 18S sequencing. The samples will be titled as follows, first for pre-restoration, then post:
+
+i.	Patty_Pre_sitelocation_plotnumber_datecollected(dd/mm/yyyy)
+ii.	Patty_Pre_mycor_sitelocation_plotnumber_datecollected(dd/mm/yyy)
+
+i.	Patty_Post_sitelocation_plotnumber_datecollected(dd/mm/yyyy)
+ii.	Patty_Post_mycor_sitelocation_plotnumber_datecollected(dd/mm/yyyy)
+
+b.	Field and soil condition observations: This data will be recorded tabularly on site to then be digitized into Excel to match the soil condition file names above. The bolded headings will be recorded in lab and added to the digitized sheets. 
+
+i.	Restoration level (pre or post)
+
+ii.	Location: GPS coordinates
+
+iii.	Elevation
+
+iv.	Soil Temperature
+
+v.	Soil humidity
+
+vi.	Soil nutrients: nitrogen, phosphorus, potassium
+
+vii.	Soil texture
+
+viii.	Plant species on site
+
+ix.	Plant stress indicators 
+
+x.	Bulk density = dry weight/volume (to determine compaction)
+
+xi.	Fine fraction (to determine carbon content)
+
+xii.	Coarse fraction (to determine carbon content)
+
+xiii.	Root/stick weight (to determine carbon content)
+
+c.	Laboratory data: The soil condition data will be recorded as described above, whereas the mycorrhizae RNA data will generated with Illumina using the methods and metadata methods as described by the Earth Microbiome Project: https://github.com/biocore/emp/blob/master/methods/methods_release1.md
+By emulating their management protocol the samples and sequences will be produced generally as follows:
+
+i.	10 individual aliquots samples will be made for each sample with this barcoding system:  Patty_location_plotnumber_a01
+
+ii.	The label will be affixed to the test tubes, and entered into an Excel inventory spread sheet. 
+
+iii.	Metadata curation will follow EML standards, as described: https://github.com/ropensci/EML and set up prior to amplification and sequencing such that the results (the resident species) will be matched with the identifying metadata (type, geographic origin, etc.). This EML file will be created in Rmarkdown.
+
+iv.	The sequencing protocol will follow: https://earthmicrobiome.org/protocols-and-standards/18s/ without a mammal sequence block. The data type produced will be raw FASTQ files
+
+2)	A metadata example similar to what I might generate follows the EML protocol. Seerangan, K., & Thangavelu, M. (2014). Arbuscular mycorrhizal and dark septate endophyte fungal associations in south Indian aquatic and wetland macrophytes. Journal of Botany, 2014. https://doi.org/10.1155/2014/173125 and the dataset/metadata may be found here: doi:10.6073/pasta/b331efa1734c5793978dbe844b981349. 
+
 ## Storage and Security
 ## Access and Data Sharing
 ## Archiving and Preservation
