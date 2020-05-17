@@ -85,5 +85,27 @@ iv.	The sequencing protocol will follow: https://earthmicrobiome.org/protocols-a
 2)	A metadata example similar to what I might generate follows the EML protocol. Seerangan, K., & Thangavelu, M. (2014). Arbuscular mycorrhizal and dark septate endophyte fungal associations in south Indian aquatic and wetland macrophytes. Journal of Botany, 2014. https://doi.org/10.1155/2014/173125 and the dataset/metadata may be found here: doi:10.6073/pasta/b331efa1734c5793978dbe844b981349. 
 
 ## Storage and Security
+
 ## Access and Data Sharing
+
+a.	The soil nutrient data generated will be shared in plain text formats such as .txt and .csv on GitHub such that Clean Water Services may monitor the research progress. A working metadata “.README” will accompany the uploaded data.
+
+b.	The DNA/RNA data will be shared if the analysis and sharing of these large data files are financially viable. 
+
+c.	All published data sets will carry Creative Commons By Attribution (CCBY; https://creativecommons.org/licenses/by/4.0/)
+
+## Sharing limitations
+
+As the restoration locations are the property of Clean Water Services, public access to the exact restoration locations (GPS coordinates) will be limited to their sharing discretion. Locations will be referred to with individual, unique nomenclature when shared along with a generalized location based upon the Tualatin River’s hydrological units: 17090010.
+
 ## Archiving and Preservation
+
+a.	Once the data is finalized, it will be shared in the ScholarsArchive@OSU  at the moment of publication or 2 years after data creation, whichever comes sooner. ScholarsArchive@OSU is committed to long-term accessibility and preservation of research data. 
+
+b.	Physical data sheets will be uploaded digitally and achieved as PDF/A’s with ScholarsArchive@OSU. The physical sheets will be filed and permanently stored with Clean Water Services. 
+
+c.	The physical soil samples will be cataloged and stored securely after final analysis with Clean Water Services.
+
+d.	The physical mycorrhizal RNA/DNA samples will be stored using preservation techniques instructed by the Decomposition Lab until their analysis. After analysis, the generated sequences will be temporarily stored in the Forestry:Groups server, uploaded to ScholarsArchive@OSU, and backed onto a physical hard drive. This data will then be shared to a Clean Water Services server. This will ensure redundancy of these large datafiles.
+
+e.	These data will remain secure and stored at stable conditions as long as support exists at Clean Water Services. 
