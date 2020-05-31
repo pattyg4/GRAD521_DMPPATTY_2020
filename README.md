@@ -1,13 +1,18 @@
 # GRAD521_DMPPATTY_2020_04_23
 THIS IS A DATA MANAGEMENT PLAN FOR GRAD 521.
-1. The main research questions are: 
 
-a. How do mycorrhizal populations shift after restoration treatments are applied to an area, specifically shifting from a 100 year-old farmland to a wetland/riparian area?
+The research questions are: 
 
-b. Which plant species have the most survivability when pioneering wetland/riparian restoration from agricultural land?
+a. What is the carbon sequestration potential of CWS land pre and post restoration(years 0, 1, 5 10)?
 
-I hypothesize that plant species capable of making many symbiotic, ectomycorrhizal relationships have greater survivability than those capable of making limited or specialized connections. 
+b. How do N, P, K, S, and other soil constituents change post restoration?
 
-I predict over a four year period to see a shift in the mycorrhizal populations, with greater diversity after the restoration treatment. 
+c. Which soil mycorrhizae are present pre/post restoration?
 
-I will take an experimental approach, where I will have 5 planted replicates with 5 experimental plots (4 planted areas and one control group with nothing planted). Each experimental plot will be one-square-acre and contain a single, planted species typically used for restoration. When sampled before and after restoration, the sample method with be stratified to the middle of the plot to account for edge effects, but the soil and plant root samples will be randomized. 
+I hypothesize that carbon sequestration potential changes over time after the riparian restoration has occurred due to the establishment of restored species which stabilize and input carbon to the soil environment.
+I predict 10 years post restoration will have the greatest potential for carbon sequestration compared to younger sites.
+ 
+
+I will take an observational approach to sample three sites for year 0 and each year post restoration (year 1, 5, and 10). Within each site I will randomly select three plots to take four core samples. Three cores will be used to sample soil nutrients while one core will be processed to determine mycorrhizae presence. Each core will have three soil layers: 0-10, 10-20, and 10-30 cm. By taking these core layers we can determine how carbon and other nutrients change and are stored after restoration and how the mycorrhizal communities shift post restoration. 
+
+The goals are to understand how carbon accumulates after inland, riparian restoration treatments to inform the management actions of CWS and other restoration groups when conducting wetland restoration projects. By obtaining a baseline for typical restoration projects, we may research other influences on carbon sequestration, such as restoration plant selection. 
