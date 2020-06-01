@@ -86,6 +86,10 @@ iv.	The sequencing protocol will follow: https://earthmicrobiome.org/protocols-a
 
 ## Storage and Security
 
+The digital data (the raw and edited datasets), except for the DNA sequences, will be stored in four locations, creating four copies: In my personal computer, in the Box (my OSU account) and Dropbox (my personal account) cloud systems, and backed up on a hard drive to provide to CWS. The DNA sequences will be stored in a FASTQ format on an external hard drive and a cloud system CWS has access to. The end results of the data will also be archived in the ScholarsArchive@OSU to ensure long-term access. 
+
+The physical data samples and datasheets, both the experimental and archival, will be cataloged and stored in an on-site facility at CWS. The physical data will exist as long as CWS operates.
+
 ## Access and Data Sharing
 
 a.	The soil nutrient data generated will be shared in plain text formats such as .txt and .csv on GitHub such that Clean Water Services may monitor the research progress. A working metadata “.README” will accompany the uploaded data.
