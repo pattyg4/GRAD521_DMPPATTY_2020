@@ -44,7 +44,7 @@ c.	Patty_Post_sitelocation_plotnumber_datecollected(yyyy/mm/dd)
 
 d.	Patty_Post_mycor_sitelocation_plotnumber_datecollected(yyyy/mm/dd)
 
-2.	Field and soil condition observations: These observations will be recorded tabularly on site to then be digitized into Excel to match the soil condition file names above. Data “h” through “k” will be recorded in lab and added to the digitized sheets.  
+2.	Field and soil condition observations: These observations will be recorded tabularly on site to then be digitized into Excel to match the soil condition file names above. Data “h” through “n” will be recorded in lab and added to the digitized sheets.  
 
 a.	Restoration level (pre or post)
 
@@ -62,15 +62,17 @@ g.	Soil type
 
 h.	Soil texture
 
-i.	Soil nutrients: nitrogen, phosphorus, potassium, sulfur, and carbon
+i. Soil Compaction
 
-j.	Bulk density = dry weight/volume (to determine compaction)
+j.	Soil nutrients: nitrogen, phosphorus, potassium, sulfur, and carbon
 
-k.	Fine fraction (to determine carbon content)
+k.	Bulk density = dry weight/volume (to determine compaction)
 
-l.	Coarse fraction (to determine carbon content)
+l.	Fine fraction (to determine carbon content)
 
-m.	Root/stick weight (to determine carbon content)
+m.	Coarse fraction (to determine carbon content)
+
+n.	Root/stick weight (to determine carbon content)
 
 3.	Laboratory data: The soil condition data will be recorded as described above, whereas the mycorrhizae DNA data will generated with Illumina using the methods and metadata methods as described by the Earth Microbiome Project: https://github.com/biocore/emp/blob/master/methods/methods_release1.md
 
