@@ -93,9 +93,9 @@ e.	A metadata example similar to what I might generate follows the EML protocol.
 
 ## Storage and Security
 
-1.	The digital data (the raw and edited datasets), except for the DNA sequences, will be stored in six locations, but creating five long term copies: in my personal computer, on the Forestry:Groups sever, in the Box (my OSU account, which will expire after graduation) and Dropbox (my personal account) cloud systems, and backed up on a hard drive to provide to CWS. The DNA sequences will be stored in a FASTQ format on an external hard drive CWS has access to and GitHub if it is financially viable. All these data will also be archived in the ScholarsArchive@OSU to ensure long-term access as well. 
+1.	The digital data (the raw and edited datasets), except for the DNA sequences, will be stored in three locations, which will all be long term copies: in my personal computer, Dropbox (my personal account), and backed up on a hard drive to provide to CWS. The Dropbox and computer are connected and their updates happen automatically. The DNA sequences will be stored in a FASTQ format on an external hard drive CWS has access to and GitHub if it is financially viable. The hard drive back-ups will occur monthly, or anytime a significant update occurs in the data. All these data will also be archived in the ScholarsArchive@OSU to ensure long-term access as well. 
 
-2.	The physical data sample, both the experimental and archival will be cataloged and stored in an on-site facility at CWS. The physical data will exist as long as CWS operates.
+2.	The physical data sample, both the experimental and archival, will be cataloged and stored in an on-site facility at CWS. The physical data will exist as long as CWS operates.
 
 
 ## Access and Data Sharing
