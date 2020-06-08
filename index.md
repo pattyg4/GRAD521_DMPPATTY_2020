@@ -48,31 +48,29 @@ d.	Patty_Post_mycor_sitelocation_plotnumber_datecollected(yyyy/mm/dd)
 
 a.	Restoration level (pre or post)
 
-b.	Location: GPS coordinates
+b.	Location: (GPS coordinates)
 
-c.	Elevation
+c.	Elevation: (ft)
 
-d.	Vegetation
+d.	Vegetation: (early, mid, late successional based upon types of tree species on site)
 
-e.	Soil Temperature
+e.	Soil Temperature: (degrees Celsius)
 
-f.	Soil humidity
+f.	Soil moisture: (percent moisture per volume)
 
-g.	Soil type
+g.	Soil type: (profile information recorded and interpreted using SoilWeb through GoogleEarth)
 
-h.	Soil texture
+h.	Soil texture: (determined on site with a soil texture dichotomous key)
 
-i. Soil Compaction
+i.	Soil nutrients: nitrogen, phosphorus, potassium, sulfur, and carbon (percentages determined in lab)
 
-j.	Soil nutrients: nitrogen, phosphorus, potassium, sulfur, and carbon
+j.	Bulk density = dry weight/volume (to determine compaction, and carbon stocks)
 
-k.	Bulk density = dry weight/volume (to determine compaction)
+k.	Fine fraction (to determine carbon content)
 
-l.	Fine fraction (to determine carbon content)
+l.	Coarse fraction (to determine carbon content)
 
-m.	Coarse fraction (to determine carbon content)
-
-n.	Root/stick weight (to determine carbon content)
+m.	Root/stick weight (to determine carbon content)
 
 3.	Laboratory data: The soil condition data will be recorded as described above, whereas the mycorrhizae DNA data will generated with Illumina using the methods and metadata methods as described by the Earth Microbiome Project: https://github.com/biocore/emp/blob/master/methods/methods_release1.md
 
